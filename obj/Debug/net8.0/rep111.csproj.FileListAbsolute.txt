@@ -1,0 +1,15 @@
+C:\Users\nazar\source\repos\rep111\rep111\bin\Debug\net8.0\rep111.exe
+C:\Users\nazar\source\repos\rep111\rep111\bin\Debug\net8.0\rep111.deps.json
+C:\Users\nazar\source\repos\rep111\rep111\bin\Debug\net8.0\rep111.runtimeconfig.json
+C:\Users\nazar\source\repos\rep111\rep111\bin\Debug\net8.0\rep111.dll
+C:\Users\nazar\source\repos\rep111\rep111\bin\Debug\net8.0\rep111.pdb
+C:\Users\nazar\source\repos\rep111\rep111\obj\Debug\net8.0\rep111.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nazar\source\repos\rep111\rep111\obj\Debug\net8.0\rep111.AssemblyInfoInputs.cache
+C:\Users\nazar\source\repos\rep111\rep111\obj\Debug\net8.0\rep111.AssemblyInfo.cs
+C:\Users\nazar\source\repos\rep111\rep111\obj\Debug\net8.0\rep111.csproj.CoreCompileInputs.cache
+C:\Users\nazar\source\repos\rep111\rep111\obj\Debug\net8.0\rep111.sourcelink.json
+C:\Users\nazar\source\repos\rep111\rep111\obj\Debug\net8.0\rep111.dll
+C:\Users\nazar\source\repos\rep111\rep111\obj\Debug\net8.0\refint\rep111.dll
+C:\Users\nazar\source\repos\rep111\rep111\obj\Debug\net8.0\rep111.pdb
+C:\Users\nazar\source\repos\rep111\rep111\obj\Debug\net8.0\rep111.genruntimeconfig.cache
+C:\Users\nazar\source\repos\rep111\rep111\obj\Debug\net8.0\ref\rep111.dll
